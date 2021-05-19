@@ -1,0 +1,10 @@
+#header {
+  background-color: rgb(27, 27, 71);
+  position: fixed;
+  width: 100%;
+}
+#hero {
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+}
